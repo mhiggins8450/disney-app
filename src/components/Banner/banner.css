@@ -1,0 +1,34 @@
+.banner {
+    background-color: #007bff;
+    color: white;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+  }
+  
+  .banner-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    padding: 5px 20px;
+  }
+  
+  .banner-restrictions {
+    margin-left: auto;
+    margin-right: 20px;
+  }
+  
+  .banner-offers {
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .banner-close {
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  

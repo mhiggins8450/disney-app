@@ -1,6 +1,7 @@
 .App-header {
     background-color: #ffffff;
     color: white;
+    margin: 20px;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -12,11 +13,16 @@
     align-items: center;
     color: blue;
   }
+
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   
   .logo {
     max-width: 150px;
     height: auto;
-    margin: 0 auto;
   }
   
   .right-icons {

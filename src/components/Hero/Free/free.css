@@ -1,0 +1,37 @@
+.free-container {
+    position: relative;
+    margin-top: 10px;
+  }
+  
+  .hero-text {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    color: white;
+    text-align: center;
+  }
+  
+  .highlight-background {
+    background-color: #007bff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .highlight-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .underline-text {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+  .hero-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }  

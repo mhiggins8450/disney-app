@@ -8,26 +8,30 @@
     top: 50%;
     left: 10%;
     transform: translateY(-50%);
-    color: white;
+    /* color: white; */
     text-align: center;
   }
   
   .highlight-background {
-    background-color: #007bff;
-    padding: 10px 20px;
-    border-radius: 5px;
+    background-color: #e0e0f7;
+    padding: 5px;
     margin-bottom: 10px;
   }
   
   .highlight-text {
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 15px;
     margin-bottom: 5px;
+    color: white;
+    text-align: left;
+
   }
   
   .underline-text {
     text-decoration: underline;
     cursor: pointer;
+    color: white;
+    text-align: left;
+
   }
   
   .hero-image {

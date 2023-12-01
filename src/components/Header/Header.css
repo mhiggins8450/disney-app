@@ -1,0 +1,36 @@
+.App-header {
+    background-color: #ffffff;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .left-icons {
+    display: flex;
+    align-items: center;
+    color: blue;
+  }
+  
+  .logo {
+    max-width: 150px;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  .right-icons {
+    display: flex;
+  }
+  
+  .blue-heart {
+    margin-right: 10px;
+    font-size: 20px;
+    color: #007bff;
+  }
+  
+  .shopping-bag {
+    font-size: 20px;
+    color: #007bff;
+  }
+  

@@ -67,6 +67,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  text-align: center;
   max-width: 1200px;
   width: 100%;
   padding: 5px 20px;

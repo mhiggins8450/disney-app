@@ -7,12 +7,6 @@
     justify-content: space-between;
     align-items: center;
   }
-  
-  .left-icons {
-    display: flex;
-    align-items: center;
-    color: blue;
-  }
 
   .logo-container {
     display: flex;
@@ -23,6 +17,12 @@
   .logo {
     max-width: 150px;
     height: auto;
+  }
+
+  .left-icons {
+    display: flex;
+    align-items: center;
+    color: blue;
   }
   
   .right-icons {

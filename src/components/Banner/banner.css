@@ -28,11 +28,13 @@
 .banner-restrictions {
   margin-left: auto;
   margin-right: 20px;
+  font-size: 7px;
 }
 
 .banner-offers {
   cursor: pointer;
   margin-right: 20px;
+  font-size: 7px;
 }
 
 .banner-close {

@@ -1,42 +1,42 @@
 .App-header {
-    background-color: #ffffff;
-    color: white;
-    margin: 20px;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
+  background-color: #ffffff;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
-  .logo-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .logo {
-    max-width: 150px;
-    height: auto;
-  }
+.logo-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-  .left-icons {
-    display: flex;
-    align-items: center;
-    color: blue;
-  }
-  
-  .right-icons {
-    display: flex;
-  }
-  
-  .blue-heart {
-    margin-right: 10px;
-    font-size: 20px;
-    color: #007bff;
-  }
-  
-  .shopping-bag {
-    font-size: 20px;
-    color: #007bff;
-  }
-  
+.logo {
+  max-width: 150px;
+  height: auto;
+}
+
+.left-icons {
+  display: flex;
+  align-items: center;
+  color: blue;
+}
+
+.right-icons {
+  display: flex;
+}
+
+.blue-heart {
+  margin-right: 10px;
+  font-size: 20px;
+  color: #007bff;
+}
+
+.shopping-bag {
+  font-size: 20px;
+  color: #007bff;
+}
